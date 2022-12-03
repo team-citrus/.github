@@ -1,10 +1,10 @@
 # Team Citrus
 
-A group of some friends who decided one day to make a game and game engine.
+A group of some friends who decided one day to make a game.
 Ain't much more than that.
 
-Discord server link: https://discord.gg/fbNDPHUBCj
+Our Discord server can be found [here](discord.gg/fbNDPHUBCj).
 
 ## Projects
 
-- engine, our currently nameless game engine for our currently nameless game
+- [engine](https://github.com/team-citrus/engine), a game engine originally created for our currently nameless game
