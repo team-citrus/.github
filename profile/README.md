@@ -11,3 +11,4 @@ Our Discord server can be found [here](discord.gg/fbNDPHUBCj).
 ## Projects
 
 - [Citrus Engine](https://github.com/team-citrus/engine), a game engine originally created for our currently nameless game
+  - The [Rust bindings](https://github.com/team-citrus/engine-rust) for the Citrus Engine
