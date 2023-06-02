@@ -10,3 +10,4 @@ No members of Team Citrus have ever met any members of Team Cherry, and we are b
 
 - [Citrus Engine](https://github.com/team-citrus/engine), a game engine originally created for our currently nameless game
   - The [Rust bindings](https://github.com/team-citrus/engine-rust) for the Citrus Engine
+  - A [heavily modified verison of the engine](https://github.com/team-citrus/ecosystem-engine-variant) for use in the actual game itself.
